@@ -1,7 +1,6 @@
 ### Olá, eu sou o Gabriel Andrade👋
 
-- 🎓 Graduado em Marketing
-- 👨‍🎓 Calouro em Análise e Desenvolimento de Sistemas
+- 🎓 Graduado em Marketing e cursando Análise e Desenvolimento de Sistemas
 - 📚 Estudando Desenvolvimento Web
 - 💙 Música, jogos, filmes e séries
 - 🎣 Pesca esportiva
@@ -13,11 +12,11 @@
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-andradev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gab-Js" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Gab-HTML" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gab-CSS" height="30" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gab-Lua" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg">
-  <img align="center" alt="Gab-NodeJS" height="30" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Gab-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Gab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gab-Lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg">
+  <img align="center" alt="Gab-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="right" alt="Gab-GIF" height="150" style="border-radius:50px;" src="https://media0.giphy.com/media/iIGT8Y1rOYhBpdHh1C/200.webp?cid=ecf05e474bko556jfworqa5u4iyoyz3ci85kp3r08uyhszaa&rid=200.webp&ct=s">
 </div>
   
