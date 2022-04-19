@@ -1,7 +1,7 @@
 ### Olá, eu sou o Gabriel Andrade👋
 
 - 🎓 Graduado em Marketing e cursando Análise e Desenvolimento de Sistemas
-- 📚 Estudannte de Desenvolvimento Web
+- 📚 Estudante de Desenvolvimento Web
 - 💙 Música, jogos, filmes e séries
 - 🎣 Pesca esportiva
 - 😄 Pronomes: Ele/ Dele
