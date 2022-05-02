@@ -9,7 +9,7 @@ Web Developer
 * 🖥️ Portolio [📝MyPort](http://gandradev.netlify.app)
 * ✉️ E-Mail [📩 gandrade.dev@gmail.com](mailto:gandrade.dev@gmail.com)
 * 🧠 Estudando Desenvolvimento Web Front-end
-* 🤝 Aberto à propostas de estágio e desenvolvedor júnior
+* 🤝 Aberto à propostas de estágio e senioridade _trainee_/júnior
 ##
 ### Skills
 
