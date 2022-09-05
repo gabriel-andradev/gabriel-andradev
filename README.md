@@ -6,9 +6,9 @@ Web Developer
 
 * 🎓 Cursando Análise e Desenvolvimento de Sistemas e graduado em Marketing
 * 🌍 Atibaia - São Paulo
-* 🖥️ Portolio [📝MyPort](http://gandradev.netlify.app)
+* 🖥️ Portfolio [📝MyPort](http://gandradev.netlify.app)
 * ✉️ E-Mail [📩 gandrade.dev@gmail.com](mailto:gandrade.dev@gmail.com)
-* 🧠 Estudando Desenvolvimento Web Front-end
+* 🧠 Estudando Desenvolvimento Web
 * 🤝 Aberto à propostas de estágio e senioridade _trainee_/júnior
 ##
 ### Skills
