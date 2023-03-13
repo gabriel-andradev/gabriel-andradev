@@ -7,8 +7,8 @@ Web Developer
 * 🎓 Cursando Análise e Desenvolvimento de Sistemas e graduado em Marketing
 * 🌍 Atibaia - São Paulo
 * ✉️ E-Mail [📩 gandrade.dev@gmail.com](mailto:gandrade.dev@gmail.com)
-* 🧠 Estudante de Desenvolvimento Web
-* 💼 CRN Group - Desenvolvedor Web
+* 🧠 Desenvolvimento de software web
+* 💼 CRN Group - Desenvolvedor web full-stack
 ##
 ### Linguagens e tecnologias
 
