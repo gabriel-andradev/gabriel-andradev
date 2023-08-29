@@ -6,9 +6,9 @@ Desenvolvedor Web
 
 * 🎓 Cursando Análise e Desenvolvimento de Sistemas e graduado em Marketing
 * 🧠 Desenvolvimento de software web
-* 💼 CRN Group - Desenvolvedor web full stack
+* 💼 CRN Group - Desenvolvedor web full-stack
 * ✉️ Contato [📩 gandrade.dev@gmail.com](mailto:gandrade.dev@gmail.com)
-* 🌍 São Paulo
+* 🌍 São Paulo - BR
 ##
 ### Linguagens e tecnologias
 
