@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/gabriel-andradev/" target="_blank" rel="noreferrer"><img align="right" style="margin-left: 25px"  src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="32"/></a> 
   
 #
-### 🔗Contato com:
+### 🔗 Ferramentas:
 
 <a href="https://discord.com/users/gG#7472" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
 <a href="https://discord.com/users/gG#7472" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
