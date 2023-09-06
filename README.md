@@ -1,12 +1,12 @@
 ```diff
 @@Gabriel Andrade@@
 
-+ é apaixonado por tecnologia;
-+ conversa sobre tech e aleatoridades;
-- gosta de desafios, é extrovertido;
+- é apaixonado por tecnologia;
+- conversa sobre tech e aleatoridades;
++ gosta de desafios, é extrovertido;
 
-+ faz faculdade de ADS;
-- é formado em Marketing;
+- faz faculdade de ADS;
++ é formado em Marketing;
 + programa em front e back end;
 ! estuda desenvolvimento web moderno;
 ! morando em São Paulo - BR;
