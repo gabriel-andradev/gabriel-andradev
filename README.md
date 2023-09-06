@@ -20,7 +20,7 @@
   <a href="https://www.twitch.tv/gueibruiel" target="_blank" rel="noreferrer"><img align="right" style="margin-left: 25px"  src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="32" height="32"/></a> 
   <a href="https://www.linkedin.com/in/gabriel-andradev/" target="_blank" rel="noreferrer"><img align="right" style="margin-left: 25px"  src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="32"/></a> 
   
-##
+#
 ### 🔗Contato com:
 
 <a href="https://discord.com/users/gG#7472" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
@@ -46,6 +46,8 @@
 <a href="https://discord.com/users/gG#7472" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/></a>
 <a href="https://discord.com/users/gG#7472" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/></a>
 <a href="https://discord.com/users/gG#7472" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/></a>
+
+##
 
 <div align="center">
   <a href="http://www.github.com/gabriel-andradev"align="left"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabriel-andradev&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&show_icons=true" alt="gabriel-andradev's GitHub stats"/></a>
