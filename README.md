@@ -14,7 +14,7 @@
 
 ```
   <a href="mailto:gandrade.dev@gmail.com" target="_blank" rel="noreferrer"><img  align="right" style="margin-left: 25px" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="32"/>
-  <a href="https://discord.com/users/gG#7472" target="_blank" rel="noreferrer"><img  align="right" style="margin-left: 25px" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="32" height="32"/></a>
+  <a href="https://discord.com/users/gandradev" target="_blank" rel="noreferrer"><img  align="right" style="margin-left: 25px" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="32" height="32"/></a>
   <a href="http://www.instagram.com/gbrl.andrade/" target="_blank" rel="noreferrer"><img  align="right" style="margin-left: 25px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32"/></a>
   <a href="https://www.linkedin.com/in/gabriel-andradev/" target="_blank" rel="noreferrer"><img align="right" style="margin-left: 25px"  src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="32"/></a> 
   
