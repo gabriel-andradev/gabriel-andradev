@@ -14,10 +14,10 @@
 # interesses em React, Node.js, PHP, TypeScript, código limpo e simplificado
 
 ```
-  [<img  align="right" style="margin-left: 25px" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="32"/>](mailto:gandrade.dev@gmail.com)
-  [<img  align="right" style="margin-left: 25px" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="32" height="32"/>](https://discord.com/users/gandradev)
-  [<img  align="right" style="margin-left: 25px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32"/>](http://www.instagram.com/gbrl.andrade/)
-  [<img align="right" style="margin-left: 25px"  src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="32"/>](https://www.linkedin.com/in/gabriel-andradev/)
+  [<img align="right" style="margin-left: 25px" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="32"/>](mailto:gandrade.dev@gmail.com)
+  [<img align="right" style="margin-left: 25px" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="32" height="32"/>](https://discord.com/users/gandradev)
+  [<img align="right" style="margin-left: 25px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32"/>](http://www.instagram.com/gbrl.andrade/)
+  [<img align="right" style="margin-left: 25px" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="32"/>](https://www.linkedin.com/in/gabriel-andradev/)
   
 #
 ### 🔗 Ferramentas:
