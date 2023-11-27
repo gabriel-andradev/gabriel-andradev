@@ -9,7 +9,7 @@
 + é formado em Marketing;
 + programa em front e back end;
 
-! estuda desenvolvimento web moderno;
+! estuda desenvolvimento web;
 ! morando em São Paulo - BR;
 # interesses em React, Node.js, PHP, TypeScript, código limpo e simplificado
 
