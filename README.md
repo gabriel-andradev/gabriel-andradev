@@ -11,7 +11,7 @@
 
 ! estuda desenvolvimento web;
 ! morando em São Paulo - BR;
-# interesses em React, Node.js, PHP, TypeScript, código limpo e simplificado
+# interesses em React, Node.js, PHP, Java, TypeScript, código limpo e simplificado
 
 ```
   [<img align="right" style="margin-left: 25px" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="32"/>](mailto:gandrade.dev@gmail.com)
